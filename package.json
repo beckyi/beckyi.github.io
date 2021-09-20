@@ -2,6 +2,7 @@
   "name": "beckyi-blog",
   "version": "0.0.1",
   "private": true,
+  "main": "public/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
