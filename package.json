@@ -2,7 +2,6 @@
   "name": "beckyi-blog",
   "version": "0.0.1",
   "private": true,
-  "main": "public/index.html",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
@@ -148,5 +147,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0"
   }
 }
