@@ -1,6 +1,6 @@
 {
-  "name": "beckyi-blog",
-  "version": "0.0.1",
+  "name": "jaen",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@babel/core": "7.12.3",
@@ -112,7 +112,7 @@
       "<rootDir>/src/**/*.{spec,test}.{js,jsx,ts,tsx}"
     ],
     "testEnvironment": "jsdom",
-    "testRunner": "/Users/jaeny/myWork/beckyi.github.io/node_modules/jest-circus/runner.js",
+    "testRunner": "/Users/jaeny/myWork/jaen/node_modules/jest-circus/runner.js",
     "transform": {
       "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": "<rootDir>/config/jest/babelTransform.js",
       "^.+\\.css$": "<rootDir>/config/jest/cssTransform.js",
