@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "📌 root",
+    },
+    {
+      "path": "./apps/note",
+      "name": "📘 note",
+    },
+  ],
+  "settings": {},
+}
